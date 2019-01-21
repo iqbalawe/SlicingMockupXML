@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Los Angeles Intl. (LAX)</string>
+    <string name="yaris">Toyota Yaris</string>
+    <string name="toyota_yaris">Toyota Yaris</string>
+    <string name="price">Daily $27</string>
+    <string name="filter">Filter</string>
+</resources>
